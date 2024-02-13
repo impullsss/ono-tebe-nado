@@ -47,9 +47,8 @@
 }
 
 .underline {
-    text-decoration: underline;
-    text-underline-offset: 3px;
     text-decoration: underline 0.1px;
+    text-underline-offset: 3px;
 }
 
 
@@ -75,7 +74,6 @@
     line-height: 115px;
     letter-spacing: 0.3em;
     text-transform: uppercase;    
-    width: 100%;
     padding: 165px 50px 128px 50px;
 }
 
@@ -104,7 +102,6 @@
 }
 
 .cover__description {
-    
     word-spacing: 19px;
 }
 
